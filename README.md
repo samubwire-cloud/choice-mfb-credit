@@ -1,1 +1,8 @@
-[requirements.txt](https://github.com/user-attachments/files/28830433/requirements.txt)
+streamlit>=1.35.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+plotly>=5.18.0
+joblib>=1.3.0
+openpyxl>=3.1.0
+pillow>=10.0.0
